@@ -1,34 +1,26 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Me
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2014-12-24
+modified: 2016-1-26
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+#Hey, y'all
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+I'm Luke, a 3rd-year Computer Science major at Georgia Institute of Technology. I enjoy creating awesome experiences with iOS apps, among other things.
 
-## What HPSTR brings to the table:
+I’ve had plenty of work experience in the past two years: one summer of full-time employment at Manhattan Associates, a supply-chain software and consulting firm, and two additional positions working on iOS apps at two Atlanta startups.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+I have been interested in iOS since the App Store first debuted, but I didn’t start building my own apps until a little over a year ago. Since then, I’ve built around six apps as class assignments, commissioned work, and personal fun side projects. Along with a couple of friends, I also just founded an iOS club at Georgia Tech to teach others iOS development and share our love for the platform.
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+The status and availability of the apps I’ve worked on varies — some can be found on the App Store, others on my Github, others are still in development and may be private. You can find a comprehensive portfolio of my works on this very website! (Hint: Just go "Home".)
 
-[^1]: Example: *domain.com/category-name/post-title*
+I have a very strong grasp on iOS development fundamentals and building apps from scratch; I’m looking for an internship that can provide for me an opportunity to advance my skills by maintaining and augmenting an established product with a large user base. If this sounds like someone you would want to hire for an internship, please drop me a line via email or hit me up on Twitter, LinkedIn, or GitHub.
+
+Thanks for stopping by!
+
+~ Luke
