@@ -1,5 +1,6 @@
 ---
 title: Agency Spotter
+layout: post
 date: 2016-01-26T22:01:50-05:00
 ---
 
