@@ -9,7 +9,7 @@ comments: false
 modified: 2016-1-26
 ---
 
-#Hey, y'all
+Hey, y'all
 
 I'm Luke, a 3rd-year Computer Science major at Georgia Institute of Technology. I enjoy creating awesome experiences with iOS apps, among other things.
 
