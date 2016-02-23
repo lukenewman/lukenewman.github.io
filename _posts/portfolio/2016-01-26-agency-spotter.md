@@ -8,6 +8,6 @@ In August 2015, I started working for Agency Spotter, a local Atlanta startup wh
 
 You can find out more about the app on its [website](http://mobileapp.agencyspotter.com).
 
-The app is currently Waiting For Review for the App Store.
+The app will be on the App Store on March 1st!
 
 *Technologies Used*: Objective-C, SimpleAuth, RestKit, Masonry, Chameleon, SDWebImage, Fabric, Crashlytics, Onboard
