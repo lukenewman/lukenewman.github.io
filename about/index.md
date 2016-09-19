@@ -19,7 +19,7 @@ I have been interested in iOS since the App Store first debuted, but I didn’t 
 
 The status and availability of the apps I’ve worked on varies — some can be found on the App Store, others on my Github, others are still in development and may be private. You can find a comprehensive portfolio of my works on this very website! (Hint: Just go "Home".)
 
-I have a very strong grasp on iOS development fundamentals and building apps from scratch; I’m looking for an internship or full-time opportunity that can provide for me an opportunity to advance my technical, managerial, and entrepreneurial skills. If this sounds like someone you would want to hire, please drop me a line via email or hit me up on Twitter, LinkedIn, or GitHub.
+I have a very strong grasp on iOS development fundamentals and client relations; I’m looking for an internship or full-time opportunity that can provide for me an opportunity to advance my technical, managerial, and entrepreneurial skills. If this sounds like someone you would want to hire, please drop me a line via email or hit me up on Twitter, LinkedIn, or GitHub.
 
 Thanks for stopping by!
 
